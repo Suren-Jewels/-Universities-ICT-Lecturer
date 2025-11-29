@@ -1,4 +1,3 @@
-# -Universities-ICT-Lecturer
 ICT Specialist &amp; Lecturer (2009–2015). Delivered OS, networking, and virtualization labs across multiple universities. Designed reproducible teaching modules, supported 500+ students annually, and modernized ICT curriculum with hands-on labs and secure system practices.
 # 🎓 Universities – ICT Specialist & Lecturer
 
