@@ -35,7 +35,6 @@ groups alice
 groups bob
 sudo tail -n 50 /var/log/auth.log
 
-
 ---
 
 ## 📄 `artifacts/Student-Feedback-Workflow.md`
